@@ -1,0 +1,25 @@
+{
+  "name": "stackoverflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-workshop/stackoverflow.git"
+  },
+  "keywords": [],
+  "author": "Euris Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lee-workshop/stackoverflow/issues"
+  },
+  "homepage": "https://github.com/lee-workshop/stackoverflow#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "serve": "^13.0.2"
+  }
+}
